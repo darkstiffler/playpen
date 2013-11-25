@@ -12,6 +12,21 @@ a {
 a:visited {
 	color: black;
 }
+a:hover {
+	color: red;
+}
+footer {
+	margin: 0 auto;
+	width: 300px;
+}
+footer ul {
+	list-style-type: none;
+}
+footer a {
+	float: left;
+	margin: 15px;
+	color: black;
+}
 #container {
 	height: 500px;
 	width: 600px;

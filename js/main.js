@@ -1,6 +1,7 @@
 $(document).ready(function(){
 	console.log('document fully loaded!');     // declare readystate
-
+	$('html').css({ display : 'none'})
+	$('html').fadeIn(1400);
 	// script for the background-colors / buttons
 	//red
 	$('.red').click(function(){
