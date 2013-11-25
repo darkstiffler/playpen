@@ -25,4 +25,8 @@ button.big {
 	width: 100px;
 	font-size: 25px;
 }
-
+#side_button {
+	position: absolute;
+	top: 20px;
+	right: 360px;
+}
